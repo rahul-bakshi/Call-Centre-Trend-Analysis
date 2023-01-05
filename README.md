@@ -1,2 +1,3 @@
 # Call-Centre-Trend-Analysis
-Call center trend analysis using Power BI.
+
+Task : Create a dashboard in Power BI that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
